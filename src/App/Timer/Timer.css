@@ -1,0 +1,22 @@
+.timer-container {
+    float: left;
+    display: block;
+    border: solid 1px #999999;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #eeeeee;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.timer-container .fa-spinner {
+    color: #aaaaaa;
+}
+
+.timer-container button {
+    margin-left: 10px;
+}
+
+.clear {
+    clear: both;
+    margin-bottom: 10px;
+}

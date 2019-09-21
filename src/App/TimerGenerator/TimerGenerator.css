@@ -1,0 +1,9 @@
+.generator {
+    margin: 10px 10px 10px 0px;
+}
+
+.generator button {
+    width: 280px;
+    height: 50px;
+    font-size: 20px;
+}
